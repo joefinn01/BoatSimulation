@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<objects>
+  
+    <boat Position ="150.0f,4.0f,175.0f" Rotation ="0.0f,0.0f,0.0f" Scale ="1.0f,1.0f,1.0f" />
+    <bath Position ="150.0f,-60.0f,175.0f" Rotation ="0.0f,90.0f,0.0f" Scale ="5.0f,5.0f,5.0f"/>
+    <speedPickUp Position ="130.0f,7.0f,175.0f"/>
+    <pointLight Position ="150.0f,7.0f,100.0f"/>
+    <spotLight Position ="150.0f,10.0f,100.0f"/>
+  
+</objects>
